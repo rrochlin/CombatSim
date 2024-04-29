@@ -1,0 +1,27 @@
+# ninja log v5
+948	2639	1714035802291312170	CombatSim	432b23ef3a9a88b5
+9	71	1714037557331835942	build.ninja	d49349d3baf18d48
+18	3610	1714034785396419839	CMakeFiles/CombatSim.dir/main.cpp.o	f580395b5de0bbbb
+4	3916	1713590210958832247	CMakeFiles/CombatSim.dir/Characters/Character.cpp.o	a1916f9e4583fad1
+0	46	1713257161325736563	CMakeFiles/CombatSim.dir/Environments/Environment.cpp.o	c430135ab6cae9a5
+0	46	1713257161325741063	CMakeFiles/CombatSim.dir/Items/Item.cpp.o	dde9268c3f71628a
+17	948	1714035800598209475	CMakeFiles/CombatSim.dir/Environments/World.cpp.o	5cb9d116628ed29c
+17	867	1714038067256943754	CMakeFiles/CombatSim.dir/main.cpp.o	f580395b5de0bbbb
+6	763	1714038644376951090	CMakeFiles/CombatSim.dir/main.cpp.o	f580395b5de0bbbb
+7	764	1714038644377037838	CMakeFiles/CombatSim.dir/Characters/Character.cpp.o	a1916f9e4583fad1
+5	720	1714038829413603766	CMakeFiles/CombatSim.dir/main.cpp.o	f580395b5de0bbbb
+6	795	1714038854957667121	CMakeFiles/CombatSim.dir/Environments/World.cpp.o	5cb9d116628ed29c
+795	959	1714038855121187146	CombatSim	432b23ef3a9a88b5
+6	809	1714038889121350069	CMakeFiles/CombatSim.dir/main.cpp.o	f580395b5de0bbbb
+809	952	1714038889266242302	CombatSim	432b23ef3a9a88b5
+8	998	1714039670954756915	CMakeFiles/CombatSim.dir/main.cpp.o	f580395b5de0bbbb
+6	950	1714039728112777921	CMakeFiles/CombatSim.dir/main.cpp.o	f580395b5de0bbbb
+18	1008	1714039873421129226	CMakeFiles/CombatSim.dir/Environments/World.cpp.o	5cb9d116628ed29c
+7	737	1714040063820700365	CMakeFiles/CombatSim.dir/main.cpp.o	f580395b5de0bbbb
+8	750	1714040063834280059	CMakeFiles/CombatSim.dir/Characters/Character.cpp.o	a1916f9e4583fad1
+8	1103	1714040064186020136	CMakeFiles/CombatSim.dir/Environments/World.cpp.o	5cb9d116628ed29c
+1103	1301	1714040064385929966	CombatSim	432b23ef3a9a88b5
+6	785	1714040299307120959	CMakeFiles/CombatSim.dir/main.cpp.o	f580395b5de0bbbb
+7	788	1714040299311433362	CMakeFiles/CombatSim.dir/Characters/Character.cpp.o	a1916f9e4583fad1
+7	1094	1714040299616508323	CMakeFiles/CombatSim.dir/Environments/World.cpp.o	5cb9d116628ed29c
+1094	1275	1714040299799228124	CombatSim	432b23ef3a9a88b5

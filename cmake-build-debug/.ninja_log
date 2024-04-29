@@ -1,0 +1,10 @@
+# ninja log v5
+5	678	1713216595952186228	CMakeFiles/CombatSim.dir/Characters/Enemy.cpp.o	97446a4f118a7f15
+5	650	1713216716836896114	CMakeFiles/CombatSim.dir/Characters/Player.cpp.o	11e929adc4a8b798
+718	858	1713256775471348033	CombatSim	4d56c302873b9ecb
+0	56	1714037557332094396	build.ninja	63388526b64aac8
+2	249	1713158837970418040	CMakeFiles/CombatSim.dir/Items/Item.cpp.o	8ea48eabda5c0fbb
+2	249	1713158837970422332	CMakeFiles/CombatSim.dir/Environments/Environment.cpp.o	8107a51e589733bb
+5	519	1713159269370215666	CMakeFiles/CombatSim.dir/Characters/AttackDictionary.cpp.o	ec6f516b67140159
+6	641	1713256243489303860	CMakeFiles/CombatSim.dir/Characters/Character.cpp.o	e166226fdbd35d2c
+5	718	1713256775329795919	CMakeFiles/CombatSim.dir/main.cpp.o	f705128c13e8639d
